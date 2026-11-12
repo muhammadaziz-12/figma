@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continer {
+    border: 10px solid red;
+    width: 1600px;
+    height: 3000px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.navbar {
+    display: flex;
+    border: 3px solid #282828;
+    background-color: #282828;
+}
+
+.navbar_ul a {
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    list-style: none;
+}
+
+.navbar_ul1 {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    padding-top: 20px;
+    padding-left: 37px;
+    font-family: Montserrat;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: right;
+}
+
+.card {
+    padding-top: 20px;
+    padding-left: 800px;
+    gap: 20px;
+}
+
+.bg_img {
+    background-image: url('./images/image\ copy\ 3.png');
+}
+
+.text {
+    font-family: Prosto One;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 75px;
+    letter-spacing: 0%;
+    color: #fff;
+    text-align: center;
+}
+
+.btn1 {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-transform: uppercase;
+}
+
+.heder_btn {
+    justify-self: center;
+}
+.text2{
+    font-family: Montserrat;
+font-weight: 500;
+font-size: 22px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+padding-top: 63px;
+padding-left: 247px;
+display: flex;
+}
+.rasm{
+    padding-left: 30px;
+}
+.rasm2{
+    padding-top: 217px;
+    padding-left: 271px;
+    display: flex;
+    gap: 82px;
+}
+.text3{
+    font-family: Montserrat;
+font-weight: 500;
+font-size: 22px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+padding-top: 200px;
+}
+.text4{
+    font-family: Montserrat;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+padding-top: 195px;
+padding-left: 245px;
+}
+.text5{
+    font-family: Montserrat;
+font-weight: 700;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+color: #fff;
+}
+.rasm_va_text{
+    display: flex;
+    gap: 86px;
+}
+.text5{
+    padding-top: 183px;
+}
+.rasm2{
+   justify-self: center;
+}
+.oxiri{
+ display: flex;  
+}
+.footer{
+ border: 215px solid #282828;
+    background-color: #282828;
+    display: flex;
+    
+}
+.footer_ul a {
+    text-decoration: none;
+    color: #fff;
+}
+.footer_ul{
+    display: flex;
+    gap: 30px;
+    padding-left: 339px;
+}
+.cardlar{
+    display: flex;
+    gap: 29px;
+    padding-left: 200px;
+}
+
